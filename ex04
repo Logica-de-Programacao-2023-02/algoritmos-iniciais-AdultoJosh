@@ -1,0 +1,7 @@
+Algoritimo de cálculo de fatorial : um algoritimo que calcule o fatorial de determinado número.
+
+1: leia elemento
+2: var fatorial = 1
+3: para cada elemento faça:
+4: fatorial = multiplicação * elemento
+6: escreva fatorial 
