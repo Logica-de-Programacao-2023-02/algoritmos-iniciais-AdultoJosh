@@ -1,0 +1,7 @@
+Algoritimo git exercício
+
+1: leia A 
+2: leia B
+3: resultado = A+B 
+4: escreva resultado
+
