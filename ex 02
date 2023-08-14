@@ -1,0 +1,9 @@
+Algoritimo de conversão de temperatura : um algoritimo que converte uma temperatura em Fahrenheit para Celsius.
+
+1: Leia Temperatura 
+2: leia unidade
+3: se unidade = °F
+4: então resultado = (temperatura - 32) / 1.8
+5: senão
+6: então resultado = (temperatura = *1.8 ) / 32
+7: escreva o resultado
